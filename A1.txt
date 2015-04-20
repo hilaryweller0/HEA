@@ -25,27 +25,27 @@ c. the particular learning technologies included in your plan
 - Which elements of Core Knowledge did you utilise and why
 - Which Professional Values were particularly relevant and why
 
-Type your evidence in the following text box: (currently 653 words)
+Type your evidence in the following text box: (479 words)
 
-1. (guide, <=100 works, currently 130 words)
-I design and plan learning activities based on my experience of teaching similar material, my experience taking courses which include similar material, based on the training I have received in STEM teaching (https://www.coursera.org/course/stemteaching), discussions with colleagues and attending teaching sessions at conferences. I aim to plan learning activities so that ALL of the students are engaged in the instructional activities and so that there is frequent feedback from myself and from peers. Before asking students to embark on an activity, I give them a short lecture (10-15 minutes) providing some motivation and the information that they will need for the instructional activity. After the class activity, I will ask the class for answers to questions based on their activities and welcome questions from them.
+I design programmes of study using backward design; starting with the learning goals; what I want the students to be able to do by the end of the course. Learning goals are then broken down into learning objectives; what I want the students to be able to do after each topic of the module. These objectives inform the assessments and the assessments inform the choice of instructional activities so that the instruction, assessments and learning objectives are aligned. This is a widely accepted, evidence informed approach (eg "Understanding by Design" by Wiggins and McTighe, 1988), demonstrating professional value V3. 
 
+I initially choose subject material based on requirements of prospective employers (acknowledging the wider context in which HE operates, value V4), based on requirements of undertaking a PhD in a science subject (so I teach some data analysis), to provide pre-requisites for other modules and based on my own research interests. These choices require core knowledge K1 and these choices inform the course level learning goals. The specific learning objectives are designed to take students gradually from their very varied prior knowledge to the course level learning goals. 
 
-2a.
-I chose subject material based on the prior knowledge of the students, requirements of employers, necessary pre-requisites for other courses in my department and for undertaking a PhD. I chose subject material that builds gradually so that no lecture stands alone, all parts of the curriculum are related to other parts. So if I plan to teach a difficult subject towards the end of the course, we will have covered similar, easier topics near the beginning.
+One of the activities I use is peer instruction with multiple choice questions and think-pair-share sessions, due to the wealth of evidence supporting the efficacy of this technique (eg "Peer Instruction, A User's Manual" by Eric Mazur) (V3). I have tried a high tech approach using a specialised website (mqclicker.com) and asking students to bring their smartphones to class. This was popular with students but very time consuming, both to set up and during the class. I have therefore moved to a low-tech approach; asking students to show 1, 2, 3 or 4 fingers against their chest to answer questions in private. This is much quicker and also allows be to ask questions when they arise during class without the need for painstaking preparation. This therefore appears to be an appropriate technology (K4). The questions than I ask are usually answered correctly by less than half of the class at the first attempt and by well over half after peer instruction. This demonstrates that the questions are at the appropriate level for the academic programme (K2). 
 
-2b.
-As an example to answer this question, I have started to use peer instruction with multiple choice questions, with first some time for each student to answer the question individually, and then time for the students to discuss with peers and answer again. I have adopted this technique for two reasons. Firstly due to the wealth of evidence supporting the efficacy of peer instruction (eg Peer Instruction, A User's Manuel by Eric Mazur) and secondly from my own teaching and learning experience, seeing that all learners (including myself) need to attempt to answer questions while they are learning new material and that the lecturer is not always the best person to offer instruction to someone who is being exposed to concepts for the very first time.
+I am careful in my planning to identify the necessary prior knowledge for each of the learning objectives. If I do not do this, then students are overwhelmed by both the introduction of a new subject (such as stability analysis) and the use of an unfamiliar mathematical technique (such as complex numbers). Therefore, before we use complex numbers in my course, I give the students a complex numbers worksheet so that they can familiarise or remind themselves with the techniques. Then, when I am teaching stability analysis, the students are focussing on the stability analysis rather than on the use of complex numbers. This careful planning facilitates the student's learning within the subject area (K3). 
 
-2c.
-When embarking on peer instruction with multiple choice questions, I first wrote questions on a specialised website:
-https://mqlicker.com/user
-and asked the students to bring smartphones in order to answer the questions. However I found this technique to be cumbersome and time consuming. Firstly, all the questions must be carefully uploaded to this website and secondly, the students spent longer than I expected in accessing the website and answering the questions. I have now adopted a low-tech approach, as recommended by xxx such as asking students to show 1,2,3 or 4 fingers on their chest to answer a multiple choice question so that I can see their answers but they cannot see each other's answers. 
+Say something about:
+V1: respecting individual learners and diverse learning communities
+V2: Promoting participation in higher education and equality of opportunity for learners
 
-3. Careful attention to students' prior knowledge and building a curriculum gradually, ensuring at each stage that students have the right prior knowledge, means that students do not get so overwhelmed by the new material that I am teaching them. For example, before we use complex numbers in my course, I give the students a complex numbers worksheet so that, when we come to use them, the students are focussing on the new area of mathematics rather than trying to remember how to manipulate complex numbers. 
+(avoid spot-lighting)
+everything written down for non-English speakers
+revision worksheets for those from diverse educational backgrounds
+clear instructions for coursework - for non-natives
+ask peers to nominate each other to share, after pairing
+interview all students during 1st practical session
+motivation and stereotype innoculation - I am a woman and I interview Mohamed from the Met Office
 
-The students I have taught like to be able to reflect on the multiple-choice questions after the class and ask more questions about them on the class discussion forum and in later classes. So it appears that this technique has facilitated deeper learning.
+Use of technologies - visuals - animations to complement speach and the provide motivation
 
-The low-tech classroom using fingers rather than clickers or smartphones to answer multiple choice questions has facilitated a larger volume of learning because we can get through more questions that way and I can ask ad-hoc questions during a class, perhaps based on a question from a student, rather than having everything planned in advance.
-
-4. 
