@@ -1,0 +1,47 @@
+Evidencing A2: Teach and/or support learning
+This Area of Activity is about your direct engagement with learners whether in groups or individually. These encounters may be in a wide range of environments, such as classrooms, seminar rooms, lecture theatres, labs, learning support centres, offices, professional settings, etc.
+
+Your teaching activities might include for example, lecturing, tutorial and seminar work, studio, clinical, laboratory or workplace-based teaching, distance learning and the use of virtual learning environments.
+
+The support you give might include, for example, teaching and supervision of postgraduates, mentoring inexperienced staff or contributing to in-house learning and teaching programmes.
+
+Address the following points in this section of your account by critically reflecting on:
+
+1. The main ways in which you teach and/or support learners (≤ 100 words)
+
+2. The activities or techniques you use and why
+
+3. How you came to use them and why you think they were successful in supporting student learning? Give reasons for your choice of activities and techniques and how they relate to developing the learners' understanding of the subject
+
+4. Which elements of Core Knowledge did you utilise, how and why
+
+5. Which Professional Values were particularly relevant and why
+
+Type your evidence in the following text box: (currently 710 words)
+
+
+1. Lecturing, peer instruction, teaching videos and computing labs
+
+2-3
+
+I use a variety of teaching techniques:
+a. I have started to make SHORT teaching videos and screen casts. Eg:
+https://www.youtube.com/watch?v=xwA0N-4Dkww
+I have also been searching for similar videos made by others but I have always found them to be too long. (eg 50 minutes rather than 10 minutes).
+
+I started to make videos having undertaken a STEM teaching MOOC (https://www.coursera.org/course/stemteaching) in which the material was delivered by video (from which I leaned much) and there was a module on screen casting and modules on flipped classrooms which requires out of class material such as videos. I have had some positive feedback from students about my videos. I have also had students pointing out useful youtube videos made by other people to me to support my curriculum. 
+
+b. I give lectures which include 10-15 minute lecture pieces which might introduce a new topic, provide some background or motivation or present a worked example. The lectures also include time for students to work on problems similar to the worked examples presented and time for peer instruction.
+
+Based on my own experience and the material I learned in the STEM teaching MOOC, I should not talk to the students un-interupted for more than 10 or 15 minutes otherwise they start to fall asleep. However there is some material that is delivered well in a lecture format, such as motivational questions and worked examples. Having delivered some material, the students need to test their knowledge by working on a similar example or trying to answer a motivational question. 
+
+c. I use notes with gaps so that students have to engage with the lecture pieces and fill in their notes. However they do not have to put all their effort into copying everything down. I aim to produce 3 versions of lecture notes. One with only a few words and with animations which I display overhead (to avoid cognitive overload), one with many more explanations, but with gaps to fill in, which I give to students, and one, for myself, with everything. 
+
+When I first started teaching I wrote notes on the white board for the students to copy. The students were so busy copying that they did not have time to engage with the material. They also complained that they couldn't write everything down in time. So I have hand-outs. And the students fell asleep. So I put gaps in the notes for the students to fill in. The first set of notes that I wrote were designed to be projected onto a whiteboard so I made them very concise to avoid cognitive over-load. But the student feedback was that there was not enough information in the notes. So I put more information in, leading to too many words on each slide (and hence cognitive overload). So I have now settled on three versions of the notes, one with few words, animations and gaps, to be projected, another with more words and with gaps for the students to fill in and take away and a third version, for me, with everything. 
+
+e. I take computing labs in which students undertake simple programming exercises and ask questions as they go along. Over the years I have been teaching this course, I have provided more example code for the students to copy and modify in order to teach them good programming style. When I took over the course, the students were expected to code everything from scratch and they handed in some wild and impenetrable code. I now give them some code to start with and they have to find where they need to add code. This means that they learn good programming style by reading the code that I have given them and they do not spend time designing bad code because I have provided them with a good framework. In the future I am going to focus more on version control and group programming by using git, github (https://github.com/) and python notebook as recommended for teaching by Lorena Barba (http://lorenabarba.com/) and Greg Wilson of Software Carpentry (http://software-carpentry.org/). 
+
+4
+
+5
+
