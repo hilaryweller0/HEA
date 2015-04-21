@@ -8,44 +8,31 @@ The support you give might include, for example, teaching and supervision of pos
 Address the following points in this section of your account by critically reflecting on:
 
 1. The main ways in which you teach and/or support learners (≤ 100 words)
-
 2. The activities or techniques you use and why
-
 3. How you came to use them and why you think they were successful in supporting student learning? Give reasons for your choice of activities and techniques and how they relate to developing the learners' understanding of the subject
-
 4. Which elements of Core Knowledge did you utilise, how and why
-
 5. Which Professional Values were particularly relevant and why
 
-Type your evidence in the following text box:
+Type your evidence in the following text box: (721 words)
 
-I engage with learners through lectures peer instruction, running computing labs, making teaching videos and supervising post-graduate students.
+I engage with learners through lectures, peer instruction, running computing labs, making teaching videos and supervising post-graduate students.
 
-During lectures I plan to talk for no more than 10 or 15 minutes at a time before I give the students the opportunity to practice what they are learning. There is conflicting evidence about attention span during lectures (eg Johnstone and Percival, 1976, Matheson, 2008 and Wilsona and Korna, 2009) but I find that the students do not all follow my complicated lecture material for more than 10 to 15 minutes. A 10 to 15 minute lecture piece may involve an introduction to a new subject with motivation and visuals. I have been using data visualisation and animations to show the solutions of equations and how these relate the the weather. I am also planning to insert images as metaphore to complement the verbal stream (eg https://teatropolitan.files.wordpress.com/2009/07/takasugian02.jpg?w=510 to represent an unstable numerical method, before describing stability analysis). I also use lecutre pieces to explain a new technique or to show a worked example. This uses my knowledge of the subject material, K1 and demonstrates appropriate methods of teaching (K2) based on evidence (V3). 
+One of the activities I use is peer instruction with multiple choice questions and think-pair-share sessions, due to the wealth of evidence supporting the efficacy of this technique (eg "Peer Instruction, A User's Manual" by Eric Mazur) (V3). I have tried a high tech approach using a specialised website (mqclicker.com) and asking students to bring their smartphones to class. This was popular with students but very time consuming, both to set up and during the class. I have therefore moved to a low-tech approach; asking students to show 1, 2, 3 or 4 fingers against their chest to answer questions in private. This is much quicker and also allows me to ask questions when they arise during class without the need for painstaking preparation. This therefore appears to be an appropriate technology (K4). The questions than I ask are usually answered correctly by less than half of the class at the first attempt and by well over half after peer instruction. This demonstrates that the questions are at the appropriate level for the academic programme (K2). 
 
-I try to avoid asking questions for volunteers to answer during lectures as this only engages a small fraction of the class. I also avoid picking on students to answer questions. If I pick on a strong student I am not engaging with the weaker students whereas if I spotlight a weak student who cannot answer then I risk humiliating them. This demonstrates professional value V1. I therefore ask the whole class to answer my questions by writing down the answer to my questions in a gap that I left in their printed hand-out notes or by answering a multiple choice question. This demonstrates professional value V2, promoting equality of opportunity for learners. I also ask students to nominate each other to answer questions based on their peer interactions. By doing this I hope to foster a feeling of mutual respect among the students and promote participation from underrepresented groups.
-
-When I first started teaching, I wrote notes on the white board for the students to copy. I listened to the feedback that I got from the students (core knowledge K6) and I made hand-outs. And the students fell asleep. So I put gaps in the notes for the students to fill in. The first set of notes that I wrote were designed to be projected onto a whiteboard so I made them very concise to avoid cognitive over-load. The student feedback was that there was not enough information in the notes. So I put more information in, leading to too many words on each slide (and hence cognitive overload). So I have now settled on three versions of the notes, one with few words, animations and gaps, to be projected, another with more words and with gaps for the students to fill in and take away and a third version, for me, with everything. I also use the over-head version of the notes for making teaching videos, hence making god use of appropriate learning technologies, K4. 
+I try to avoid asking questions for volunteers to answer during lectures as this only engages a small fraction of the class. I also avoid picking on students to answer questions. If I pick on a strong student I am not engaging with the weaker students whereas if I spotlight a weak student who cannot answer then I risk humiliating them. This demonstrates professional value V1. I therefore ask the whole class to answer my questions by writing down the answer to my questions in a gap that I left in their printed hand-out notes or by answering a multiple choice question. This demonstrates professional value V2, promoting equality of opportunity for learners. I also ask students to nominate each other to answer questions based on their peer interactions. By doing this I hope to foster a feeling of mutual respect among the students and promote participation from under-represented groups.
 
 In between lecture pieces, the students work on exercises similar to the worked examples - either individually or in pairs - or I ask the students multiple choice questions to be answered using the think-pair-share peer instruction model (Mazur and Somers 1999). (Demonstrating an evidence-informed (V3) appropriate teaching method (K2) which promotes wide participation (V2).)
-
-I am aware that this lecture format does not have enough opportunities for feedback from the lecturer. I am planning to address this by asking the students to write minute papers towards the end of the class. They will then either hand the minute paper to me for feedback, give and receive feedback from peers or, if feedback from peers is inadequate, seek feedback from me during office hours.
 
 I take computing labs in which students undertake simple programming exercises and ask questions as they go along. Over the years I have been teaching this course, I have provided more example code for the students to copy and modify in order to teach them good programming style. When I took over the course, the students were expected to code everything from scratch and they handed in some wild and impenetrable code. I now give them some code to start with and they have to find where they need to add code. This means that they learn good programming style by reading the code that I have given them and they do not spend time designing bad code because I have provided them with a good framework. In the future I am going to focus more on version control and group programming by using git, github (https://github.com/) and python notebook as recommended for teaching by Lorena Barba (http://lorenabarba.com/) and Greg Wilson of Software Carpentry (http://software-carpentry.org/). 
 
 I have started to make SHORT teaching videos and screen casts:
 https://www.youtube.com/channel/UCO0YwmerBCvW-BrR8kcjLzw to support my teaching. I have tried to avoid having to make these videos myself by searching for videos that others have made on similar topics but I have always found other people's videos to be too long. (eg 50 minutes rather than 10 minutes). I have found videos to be a good way of learning material myself and I have had some positive feedback from students about my videos. I am hoping that the videos will be particularly helpful for students whose English comprehension is weak so that they can re-wind and try to understand what I am saying, displaying professional values V1 and V2. 
 
-
 References
 
 Johnstone, A.H. and Percival, F., 1976 "Attention Breaks in Lectures", Education in Chemistry
-
 Matheson, C., 2008. "The educational value and effectiveness of lectures", The Clinical Teacher
-
 Mazur, E. and Somers, M.D., 1999, "Peer Instruction: A User's Manual", Am. J. Phys. 67 (359)
-
 Wilsona, K. and Korna, J.H., 2009 "Attention During Lectures: Beyond Ten Minutes", Teaching of Psychology, 34(2): 85-89
-
 Wiggins, G. and McTighe, J., 1988, "Understanding by Design", ASCD
 

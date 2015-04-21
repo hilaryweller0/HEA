@@ -4,24 +4,18 @@ This Area of Activity is about how you use assessment and feedback to foster and
 Address the following points in this section of your account by critically reflecting on:
 
 1. The main types of formative and/or summative assessment that you use with learners, whether formal or informal? (≤ 100 words)
-
 2. How and why you choose the particular approaches and methods you employ, insofar as this was your own decision
-
 3. How you ensure your assessments are valid indicators of what you want your learners to learn, that your marking is reliable and the standards you set are appropriate
-
 4. How you give feedback to learners
-
 5. How you ensure the feedback you give learners helps them to improve their understanding of the subject or their performance and development as learners
-
 6. Which elements of Core Knowledge you utilised, how and why
-
 7. Which Professional Values you applied, how and why
 
-Type your evidence in the following text box: (766 words)
+Type your evidence in the following text box: (621 words)
 
 The summative assessment methods that I use are coursework consisting of written reports and computer code and an exam. The formative assessment methods are multiple choice questions, short pieces of un-assessed homework and individual discussions with each student during computer lab classes.
 
-Since taking over the course, I have made the coursework more open-ended, inviting students to explore and investigate and to write a stand-alone report. This is at a more appropriate, higher Blooms level, for the post-graduate student who I teach. The open-ended, problem-based coursework is aimed at encouraging curiosity and deep learning (core knowledge K3). The coursework tasks that were handed out before I took over the course were very specific, allowing the students to ask endless questions so as to achieve 100% in the coursework rather than gaining a deep understanding. When asked very specific questions, the students often did not use complete sentences to answer, so that the work that they handed in was un-intelligible to someone who was not reading the question sheet. I am discouraging this by stressing that the report that they write must stand alone - it must be understandable to someone who has not read the question sheet. A disadvantage of the new, problem based approach is that the students tend to spend too long on the coursework meaning that they don't have enough time for other subjects. I am planning to address this by giving more guidance on what I expect and how much I expect but without asking specific questions. 
+Since taking over the course, I have made the coursework more open-ended, inviting students to explore and investigate and to write a stand-alone report. This is at a more appropriate, higher Blooms level, for the post-graduate student who I teach. The open-ended, problem-based coursework is aimed at encouraging curiosity and deep learning (core knowledge K3). 
 
 My course has two pieces of coursework. The first is worth much less than the second and so it acts, to an extent, like formative assessment and students can use the feedback to improve their work for the second piece of coursework.
 
@@ -29,6 +23,7 @@ When I took over the course, I encouraged the students to hand in un-assessed ho
 
 During the computer labs I ensure that I talk to every student individually even if they are not asking for help. In order to provide informal assessment, I ask them questions about what they are doing.
 
-I ensure that my assessments are valid indicators of what I want the students to learn by writing the assessments to be closely aligned with the learning objectives. I ensure that marking is reliable by creating model answers and marking schemes before subjecting the students to the assessments and by asking another member of staff (the module supporter) to check the model answer and marking scheme before the assessment is finalised. When I am marking work I try to get an over-all impression of the mark as well as giving individual marks based on the marking scheme and I question both the marking scheme and my over-all impression if the two do not agree. Having marked all of the work, I then order it and re-read to check that I have the correct order for the class. Finally, the marking is checked by the module supporter. The check between my over-all impression and the mark helps to ensure that the standard is appropriate. My department compares marks between different courses and an external examiner examines coursework and exams which also helps to ensure that standards are appropriate. These moderation processes demonstrates knowledge of K5 and K6.
+I ensure that my assessments are valid indicators of what I want the students to learn by writing the assessments to be closely aligned with the learning objectives. I ensure that marking is reliable by creating model answers and marking schemes before subjecting the students to the assessments and by asking another member of staff (the module supporter) to check the model answer and marking scheme before the assessment is finalised. When I am marking work I try to get an over-all impression of the mark as well as giving individual marks based on the marking scheme and I question both the marking scheme and my over-all impression if the two do not agree. Having marked all of the work, I then order it and re-read to check that I have the correct order for the class. Finally, the marking is checked by the module supporter. The check between my over-all impression and the mark helps to ensure that the standard is appropriate. My department compares marks between different courses and an external examiner examines coursework and exams which also helps to ensure that standards are appropriate. These moderation processes demonstrate core knowledge K5 and K6.
 
 I give feedback mostly by commenting on the work that the students had in. I write individual comments on every piece of coursework. I put particular effort into giving feedback for the first piece of assessed coursework so that the students can use this to improve their work for the second piece of homework. I also give feedback to the whole class after the first piece of assessed coursework as many of them require the same feedback. This whole class feedback occurs both during class time and on the course website. I have recently started to use online and electronic tools for marking, commenting on work and providing feedback so the students receive the feedback and marked work electronically. This eliminates problems reading my handwriting. 
+

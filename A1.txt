@@ -3,49 +3,33 @@ Evidencing A1: Design and plan learning activities and/or programmes of study
 This Area of Activity refers to all your professional educational activities where you are preparing for engagement with learners. For example you might:
 
     Design or redesign curricula, courses and programmes of study
-
     Identify and plan different kinds of interaction with learners in various contexts, whether for single sessions or larger programmes
-
     Participate in validation panels
-
     Contribute to the creation of learning resource packs and computer-based or open learning materials or the development of virtual learning environments
 
 Address the following in this part of your account by critically reflecting on:
 1. The main ways in which you design and plan learning activities and/or programmes of study (≤ 100 words)
-
 2. The reasons for your choice of:
 a. subject material
 b. activities and techniques
 c. the particular learning technologies included in your plan
-
 3. How your choices facilitate your students’ learning in general and within their subject area
-
 4. At least one of the other Dimensions of the Framework for example:
-
 - Which elements of Core Knowledge did you utilise and why
 - Which Professional Values were particularly relevant and why
 
-Type your evidence in the following text box: (479 words)
+Type your evidence in the following text box: (720 words)
 
 I design programmes of study using backward design; starting with the learning goals; what I want the students to be able to do by the end of the course. Learning goals are then broken down into learning objectives; what I want the students to be able to do after each topic of the module. These objectives inform the assessments and the assessments inform the choice of instructional activities so that the instruction, assessments and learning objectives are aligned. This is a widely accepted, evidence informed approach (eg "Understanding by Design" by Wiggins and McTighe, 1988), demonstrating professional value V3. 
 
 I initially choose subject material based on requirements of prospective employers (acknowledging the wider context in which HE operates, value V4), based on requirements of undertaking a PhD in a science subject (so I teach some data analysis), to provide pre-requisites for other modules and based on my own research interests. These choices require core knowledge K1 and these choices inform the course level learning goals. The specific learning objectives are designed to take students gradually from their very varied prior knowledge to the course level learning goals. 
 
-One of the activities I use is peer instruction with multiple choice questions and think-pair-share sessions, due to the wealth of evidence supporting the efficacy of this technique (eg "Peer Instruction, A User's Manual" by Eric Mazur) (V3). I have tried a high tech approach using a specialised website (mqclicker.com) and asking students to bring their smartphones to class. This was popular with students but very time consuming, both to set up and during the class. I have therefore moved to a low-tech approach; asking students to show 1, 2, 3 or 4 fingers against their chest to answer questions in private. This is much quicker and also allows be to ask questions when they arise during class without the need for painstaking preparation. This therefore appears to be an appropriate technology (K4). The questions than I ask are usually answered correctly by less than half of the class at the first attempt and by well over half after peer instruction. This demonstrates that the questions are at the appropriate level for the academic programme (K2). 
-
 I am careful in my planning to identify the necessary prior knowledge for each of the learning objectives. If I do not do this, then students are overwhelmed by both the introduction of a new subject (such as stability analysis) and the use of an unfamiliar mathematical technique (such as complex numbers). Therefore, before we use complex numbers in my course, I give the students a complex numbers worksheet so that they can familiarise or remind themselves with the techniques. Then, when I am teaching stability analysis, the students are focussing on the stability analysis rather than on the use of complex numbers. This careful planning facilitates the student's learning within the subject area (K3). 
 
-Say something about:
-V1: respecting individual learners and diverse learning communities
-V2: Promoting participation in higher education and equality of opportunity for learners
+When I first started teaching, I wrote notes on the white board for the students to copy. I listened to the feedback that I got from the students (core knowledge K6) and as a result I made hand-outs. And the students fell asleep. So I put gaps in the notes for the students to fill in. The first set of notes that I wrote were designed to be projected onto a whiteboard so I made them very concise to avoid cognitive over-load. The student feedback was that there was not enough information in the notes. So I put more information in, leading to too many words on each slide (and hence cognitive overload). So I have now settled on three versions of the notes, one with few words, animations and gaps, to be projected, another with more words and with gaps for the students to fill in and take away and a third version, for me, with everything. I also use the over-head version of the notes for making teaching videos, hence making god use of appropriate learning technologies, K4. 
 
-(avoid spot-lighting)
-everything written down for non-English speakers
-revision worksheets for those from diverse educational backgrounds
-clear instructions for coursework - for non-natives
-ask peers to nominate each other to share, after pairing
-interview all students during 1st practical session
-motivation and stereotype innoculation - I am a woman and I interview Mohamed from the Met Office
+During lectures I plan to talk for no more than 10 or 15 minutes at a time before I give the students the opportunity to practice what they are learning. There is conflicting evidence about attention span during lectures (eg Johnstone and Percival, 1976, Matheson, 2008 and Wilsona and Korna, 2009) but I find that the students do not all follow my complicated lecture material for more than 10 to 15 minutes. A 10 to 15 minute lecture piece may involve an introduction to a new subject with motivation and visuals. I have been using data visualisation and animations to show the solutions of equations and how these relate the the weather. I am also planning to insert images as metaphore to complement the verbal stream (eg https://teatropolitan.files.wordpress.com/2009/07/takasugian02.jpg?w=510 to represent an unstable numerical method, before describing stability analysis). I also use lecture pieces to explain a new technique or to show a worked example. This uses my knowledge of the subject material, K1 and demonstrates appropriate methods of teaching (K2) based on evidence (V3). 
 
-Use of technologies - visuals - animations to complement speech and the provide motivation
+When planning a class, I decide which material is appropriate for multiple choice questions with peer instruction, which is appropriate for students to individually fill in short gaps in their notes are which material to use for the students as exercises. These decisions use core knowledge K2 and K3. 
+
 
