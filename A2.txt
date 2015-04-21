@@ -17,31 +17,35 @@ Address the following points in this section of your account by critically refle
 
 5. Which Professional Values were particularly relevant and why
 
-Type your evidence in the following text box: (currently 710 words)
+Type your evidence in the following text box:
+
+I engage with learners through lecturing, running computing labs, making teaching videos and supervising post-graduate students.
+
+During lectures I plan to talk for no more than 10 or 15 minutes at a time before I give the students the opportunity to practice what they are learning. There is conflicting evidence about attention span during lectures (eg Johnstone and Percival, 1976, Matheson, 2008 and Wilsona and Korna, 2009) but I find that the students who I teach do not all follow complicated lecture material for more that 10 to 15 minutes. A 10 to 15 minute lecture piece may involve an introduction to a new subject with motivation and visuals. I have been using data visualisation and animations to show the solutions of equations and how these relate the the weather. I am also planning to insert images as metaphore to complement the verbal stream (eg https://teatropolitan.files.wordpress.com/2009/07/takasugian02.jpg?w=510 to represent an unstable numerical method, before describing stability analysis). I also use lecutre pieces to explain a new technique or to show a worked example. This uses my knowledge of the subject material, K1 and demonstrates appropriate methods of teaching (K2) based on evidence (V3). 
+
+I try to avoid asking questions for volunteers to answer during lectures as this only engages a small fraction of the class. I also avoid picking on students to answer questions. If I pick on a strong student I am not engaging with the weaker students whereas if I spotlight a weak student who cannot answer then I risk humiliating them. This demonstrates professional value V1. I therefore ask the whole class to answer my questions by writing down the answer to my questions in a gap that I left in their printed hand-out notes or by answering a multiple choice question. This demonstrates professional value V2, promoting equality of opportunity for learners. 
+
+When I first started teaching, I wrote notes on the white board for the students to copy. I listened to the feedback that I got from the students (core knowledge K6) and I made hand-outs. And the students fell asleep. So I put gaps in the notes for the students to fill in. The first set of notes that I wrote were designed to be projected onto a whiteboard so I made them very concise to avoid cognitive over-load. The student feedback was that there was not enough information in the notes. So I put more information in, leading to too many words on each slide (and hence cognitive overload). So I have now settled on three versions of the notes, one with few words, animations and gaps, to be projected, another with more words and with gaps for the students to fill in and take away and a third version, for me, with everything. I also use the over-head version of the notes for making teaching videos, hence making god use of appropriate learning technologies, K4. 
+
+In between lecture pieces, the students work on exercises similar to the worked examples - either individually or in pairs - or I ask the students multiple choice questions to be answered using the think-pair-share peer instruction model (Mazur and Somers 1999). (Demonstrating an evidence-informed (V3) appropriate teaching method (K2) which promotes wide participation (V2).)
+
+I am aware that this lecture format does not have enough opportunities for feedback from the lecturer. I am planning to address this by asking the students to write minute papers towards the end of the class. They will then either hand the minute paper to me for feedback, give and receive feedback from peers or, if feedback from peers is inadequate, seek feedback from me during office hours.
+
+I take computing labs in which students undertake simple programming exercises and ask questions as they go along. Over the years I have been teaching this course, I have provided more example code for the students to copy and modify in order to teach them good programming style. When I took over the course, the students were expected to code everything from scratch and they handed in some wild and impenetrable code. I now give them some code to start with and they have to find where they need to add code. This means that they learn good programming style by reading the code that I have given them and they do not spend time designing bad code because I have provided them with a good framework. In the future I am going to focus more on version control and group programming by using git, github (https://github.com/) and python notebook as recommended for teaching by Lorena Barba (http://lorenabarba.com/) and Greg Wilson of Software Carpentry (http://software-carpentry.org/). 
+
+I have started to make SHORT teaching videos and screen casts:
+https://www.youtube.com/channel/UCO0YwmerBCvW-BrR8kcjLzw to support my teaching. I have tried to avoid this by searching for videos that others have made on similar topics but I have always found them to be too long. (eg 50 minutes rather than 10 minutes). I have found videos to be a good way of learning material myself and I have had some positive feedback from students about my videos. I have also had students pointing out useful youtube videos made by other people to me to support my curriculum. I am hoping that the videos will be particularly helpful for students whose English comprehension is weak so that they can re-wind and try to understand what I am saying, displaying professional values V1 and V2. 
 
 
-1. Lecturing, peer instruction, teaching videos and computing labs
+References
 
-2-3
+Johnstone, A.H. and Percival, F., 1976 "Attention Breaks in Lectures", Education in Chemistry
 
-I use a variety of teaching techniques:
-a. I have started to make SHORT teaching videos and screen casts. Eg:
-https://www.youtube.com/watch?v=xwA0N-4Dkww
-I have also been searching for similar videos made by others but I have always found them to be too long. (eg 50 minutes rather than 10 minutes).
+Matheson, C., 2008. "The educational value and effectiveness of lectures", The Clinical Teacher
 
-I started to make videos having undertaken a STEM teaching MOOC (https://www.coursera.org/course/stemteaching) in which the material was delivered by video (from which I leaned much) and there was a module on screen casting and modules on flipped classrooms which requires out of class material such as videos. I have had some positive feedback from students about my videos. I have also had students pointing out useful youtube videos made by other people to me to support my curriculum. 
+Mazur, E. and Somers, M.D., 1999, "Peer Instruction: A User's Manual", Am. J. Phys. 67 (359)
 
-b. I give lectures which include 10-15 minute lecture pieces which might introduce a new topic, provide some background or motivation or present a worked example. The lectures also include time for students to work on problems similar to the worked examples presented and time for peer instruction.
+Wilsona, K. and Korna, J.H., 2009 "Attention During Lectures: Beyond Ten Minutes", Teaching of Psychology, 34(2): 85-89
 
-Based on my own experience and the material I learned in the STEM teaching MOOC, I should not talk to the students un-interupted for more than 10 or 15 minutes otherwise they start to fall asleep. However there is some material that is delivered well in a lecture format, such as motivational questions and worked examples. Having delivered some material, the students need to test their knowledge by working on a similar example or trying to answer a motivational question. 
-
-c. I use notes with gaps so that students have to engage with the lecture pieces and fill in their notes. However they do not have to put all their effort into copying everything down. I aim to produce 3 versions of lecture notes. One with only a few words and with animations which I display overhead (to avoid cognitive overload), one with many more explanations, but with gaps to fill in, which I give to students, and one, for myself, with everything. 
-
-When I first started teaching I wrote notes on the white board for the students to copy. The students were so busy copying that they did not have time to engage with the material. They also complained that they couldn't write everything down in time. So I have hand-outs. And the students fell asleep. So I put gaps in the notes for the students to fill in. The first set of notes that I wrote were designed to be projected onto a whiteboard so I made them very concise to avoid cognitive over-load. But the student feedback was that there was not enough information in the notes. So I put more information in, leading to too many words on each slide (and hence cognitive overload). So I have now settled on three versions of the notes, one with few words, animations and gaps, to be projected, another with more words and with gaps for the students to fill in and take away and a third version, for me, with everything. 
-
-e. I take computing labs in which students undertake simple programming exercises and ask questions as they go along. Over the years I have been teaching this course, I have provided more example code for the students to copy and modify in order to teach them good programming style. When I took over the course, the students were expected to code everything from scratch and they handed in some wild and impenetrable code. I now give them some code to start with and they have to find where they need to add code. This means that they learn good programming style by reading the code that I have given them and they do not spend time designing bad code because I have provided them with a good framework. In the future I am going to focus more on version control and group programming by using git, github (https://github.com/) and python notebook as recommended for teaching by Lorena Barba (http://lorenabarba.com/) and Greg Wilson of Software Carpentry (http://software-carpentry.org/). 
-
-4
-
-5
+Wiggins, G. and McTighe, J., 1988, "Understanding by Design", ASCD
 

@@ -10,23 +10,14 @@ Activities you undertake as part of a group or team are valued as much as indivi
 These activities are likely to be wide ranging, incorporating both formal and informal approaches to continuing professional development. Examples include:
 
     presenting or participating in conferences on teaching and learning (often discipline-specific) 
-
     attending workshops or training events
-
     engaging in peer observation or peer review of teaching
-
     regular departmental meetings where the discussion is about learning and teaching issues
-
     ‘corridor discussions’ about teaching
-
     bidding for and involvement in projects or research on teaching and learning
-
     implementing new approaches
-
     subject and other network activities
-
     reading
-
     visits to other institutions/organisations
 
 Address the following in your account:
@@ -40,4 +31,15 @@ Address the following in your account:
 4. Which Professional Values you applied, how and why
 
 Type your evidence in the following text box:
+
+I attended a session organised by Lorena Barba at a recent SIAM conference on "Teaching Computational Thinking" (http://www.siam.org/meetings/cse15/). There were discussions on teaching version control and automatic grading of assignments for large classes. I am planning to teach version control using git next year in one of my courses. Lorena Barba presented evidence that teaching programming using python helped students to learn programming more quickly as they do not have to spend a lot of time learning the syntax. She also described how she asks students to code up an unstable numerical method before they have done the stability analysis shown that it is unstable. This gives them the motivation for understanding the stability analysis. I am planning to re-sequence activities next year to accomodate this advice. She advised that students should not be given electronic versions of code to modify - they should be given printed code and asked to retype it, to ensure that they read the code carefully before making the required modifications. I will also incorporate this technique. From this conference session I learned about some appropriate teaching methods (K2) and about some evidence-informed approaches (V3).
+
+During October and November 2014 I undertook a 60 hour MOOC on STEM teaching (http://www.siam.org/meetings/cse15/) in which I achieved a "Statement of Acomplishment with Distinction" and 92% overall in multiple-choice questions and peer-assessed assignments. In this course I learned about the principles of learning, learning objectives, assessments, numerous forms of learning activities including peer instruction, learning environments, student motivation and lesson planning. As a result of this course I implemented peer instruction into my classes and I have been making teaching videos. 
+
+I have learned from peer observations of my lectures - in particular that I need to spend more time going through exercises after the students have attempted the exercises. I have also learned from observing other people's lectures and I have been asked to observe lectures in addition to my department quota. For example, I have learned to ask for very short feedback, on post-it notes, at the end of every class. This has enhanced my knowledge of methods for evaluating the effectiveness of teaching (K5). 
+
+I am involved in a research project to design a new weather and climate forecasting model with the UK Met Office. This project is closely aligned with the subjects I am teaching. As a result of the Met Office project, I have introduced a new topic into my teaching: the finite element method, because the Met Office are developing a finite element model. The inclusion of this new topic demonstrates my knowledge of the subject material (K1) and an acknowledgement of the wider context in which higher education operates (V4), creating taught material that is relevant to prospective employers. 
+
+I will continue to attend university workshops on teaching and sessions on teaching at conferences. 
+
 
