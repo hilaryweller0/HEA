@@ -1,0 +1,110 @@
+Evidencing A2: Teach and/or support learning
+This Area of Activity is about your direct engagement with learners
+whether in groups or individually. These encounters may be in a wide
+range of environments, such as classrooms, seminar rooms, lecture
+theatres, labs, learning support centres, offices, professional settings,
+etc.
+Your teaching activities might include for example, lecturing, tutorial
+and seminar work, studio, clinical, laboratory or workplace-based
+teaching, distance learning and the use of virtual learning environments.
+The support you give might include, for example, teaching and supervision
+of postgraduates, mentoring inexperienced staff or contributing to inhouse learning and teaching programmes.
+Address the following points in this section of your account by
+critically reflecting on:
+1. The main ways in which you teach and/or support learners (â‰¤ 100
+words)
+2. The activities or techniques you use and why
+3. How you came to use them and why you think they were successful in
+supporting student learning? Give reasons for your choice of activities
+and techniques and how they relate to developing the learners'
+understanding of the subject
+4. Which elements of Core Knowledge did you utilise, how and why
+5. Which Professional Values were particularly relevant and why
+Type your evidence in the following text box: (currently 723 words,
+should be 600)
+I engage with learners through lectures, peer instruction, running
+computing labs, supervising post-graduate students and I have recently
+started to make teaching videos in order to flip the classroom.
+Since I started teaching numerical methods in 2011, I have ensured that
+all students are engaged in lectures, not just the top few who are
+prepared to answer questions. I therefore use hand-outs with gaps so that
+all students are invited to engage and try to answer the question
+(Professional value V2). I realised that a technique like this was
+necessary after a seminar in the mathematics department describing how
+students can only learn if they attempt to answer questions put to them.
+I have had mostly positive feedback from students about this approach but
+it is clear that it is not perfect – still there are students who do not
+engage or who just cannot answer the questions. I have therefore recently
+started to use is peer instruction with multiple choice questions and
+think-pair-share sessions, due to the wealth of evidence supporting the
+efficacy of this technique (eg "Peer Instruction, A User's Manual" by
+Eric Mazur) (V3). I have tried a high tech approach using a specialised
+website (mqclicker.com) and asking students to bring their smartphones to
+class. This was popular with students (evidenced by feedback at the
+staff-student forum) but very time consuming, both to set up and during
+the class. I have therefore moved to a low-tech approach; asking students
+to show 1, 2, 3 or 4 fingers against their chest to answer questions in
+private. This is much quicker and also allows me to ask questions when
+they arise during class without the need for painstaking preparation.
+This therefore appears to be an appropriate technology (K4). The
+questions that I ask are usually answered correctly by less than half of
+
+the class at the first attempt and by well over half after peer
+instruction. This demonstrates that the questions are at the appropriate
+level for the academic programme (K2).
+I try to avoid asking questions for volunteers to answer during lectures
+as this only engages a small fraction of the class. I also avoid picking
+on students to answer questions. If I pick on a strong student then I am
+not engaging with the weaker students whereas if I spotlight a weak
+student who cannot answer then I risk humiliating them. (Professional
+value V1.) I also ask students to nominate each other to answer questions
+based on their peer interactions. This was a technique highlighted in a
+university training course on “ Enhancing Teaching, Engaging Learners:
+Personalising Teaching to Deepen Learning”, October 2011. By asking
+students to nominate each other to talk, I would like to hear from a
+larger fraction of the class. This has not yet happened but I will
+persist a little longer.
+I take computing labs in which students undertake programming exercises
+and ask questions. Over the years I have been teaching this course, I
+have provided more example code for the students to copy and modify in
+order to teach them good programming style. When I took over the course,
+the students were expected to code everything from scratch and they
+handed in some wild and impenetrable code. I now give them more
+scaffolding (Coffey 2015): some code to start with and they have to find
+where they need to add code. This means that they learn good programming
+style by reading the code that I have given them and they do not spend
+time designing bad code because I have provided them with a good
+framework. The scaffolding is taken away in the more advanced module in
+the following term, in which the students have to write code from
+scratch. In the future I am going to focus more on version control and
+group programming by using git, github (https://github.com/) and python
+notebook as recommended for teaching by Lorena Barba
+(http://lorenabarba.com/) and Greg Wilson of Software Carpentry
+(http://software-carpentry.org/). Would it be worth referring here to
+this being a scaffolding technique to build up to Pier Luigi's more
+advanced module (scaffolding is a good reference)
+I have started to make SHORT teaching videos and screen casts:
+https://www.youtube.com/channel/UCO0YwmerBCvW-BrR8kcjLzw
+to support my teaching. I have tried to avoid having to make these videos
+myself by searching for videos that others have made on similar topics
+but I have always found other people's videos to be too long. (eg 50
+minutes rather than 10 minutes). I have found videos to be a good way of
+learning material myself and I have had some positive informal feedback
+from students about my videos. Can you include some examples? I am hoping
+that the videos will be particularly helpful for students whose English
+comprehension is weak so that they can re-wind and try to understand what
+I am saying, displaying professional values V1 and V2. Exellent awareness
+here.
+References
+* Coffey, H., cited 2015, “Scaffolding” http://www.learnnc.org/lp/pages/5074
+* Johnstone, A.H. and Percival, F., 1976 "Attention Breaks in Lectures", Education in
+Chemistry
+* Matheson, C., 2008. "The educational value and effectiveness of lectures", The
+Clinical Teacher
+* Mazur, E. and Somers, M.D., 1999, "Peer Instruction: A User's Manual", Am. J. Phys.
+67 (359)
+
+* Wilsona, K. and Korna, J.H., 2009 "Attention During Lectures: Beyond Ten Minutes",
+Teaching of Psychology, 34(2): 85-89
+
+

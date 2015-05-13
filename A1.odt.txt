@@ -1,0 +1,140 @@
+Evidencing A1: Design and plan learning activities and/or programmes of
+study
+This Area of Activity refers to all your professional educational
+activities where you are preparing for engagement with learners. For
+example you might:
+Design or redesign curricula, courses and programmes of study
+Identify and plan different kinds of interaction with learners in
+various contexts, whether for single sessions or larger programmes
+Participate in validation panels
+Contribute to the creation of learning resource packs and computerbased or open learning materials or the development of virtual learning
+environments
+Address the following in this part of your account by critically
+reflecting on:
+1. The main ways in which you design and plan learning activities and/or
+programmes of study (â‰¤ 100 words)
+2. The reasons for your choice of:
+a. subject material
+b. activities and techniques
+c. the particular learning technologies included in your plan
+3. How your choices facilitate your students' learning in general and
+within their subject area
+4. At least one of the other Dimensions of the Framework for example:
+- Which elements of Core Knowledge did you utilise and why
+- Which Professional Values were particularly relevant and why
+Type your evidence in the following text box: (currently 1113 words,
+should be 600)
+Is there space somewhere for a summary of what and where you teach?
+In this section, I will give examples of how I plan learning activities
+and programmes of study using backwards design (Wiggins and McTighe,
+1988) with learning goals which focus on the requirements of other
+courses, potential employers and academic careers. I will describe how I
+use scaffolding (Coffey 2015) in order to gradually build knowledge and
+skills (Professional value V3). I will also describe how I plan student
+research projects and meetings with research students. I will start by
+describing my role and the teaching that I do so that I can relate back
+to these when giving examples.
+I am a research fellow in the department of Meteorology at the University
+of Reading and will be moving to a faculty position (associate professor)
+in March 2016. I have taken the following opportunities to teach and
+support learning during my fellowship:
+* I teach a 30 hour module “Introduction to Numerical Methods” to about
+30 MSc students and 10 PhD students, consisting of computing and noncomputing classes.
+* I teach 10 hours of a module on numerical analysis to the students at
+the Mathematics for Planet Earth Centre for Doctoral Training (MPECDT),
+split between Reading and Imperial College.
+* I am the main lecturer at the biennial NERC funded NCAS Climate
+
+Modelling Summer School.
+* I have previously supervised 5 MSc dissertations, 3 undergraduate
+dissertations and 1 MSc group project and am currently supervising 1 PhD
+project and 2 Master's projects.
+* I am the Reading Admissions tutor for MPECDT.
+I took over teaching the MSc module “Introduction to Numerical Methods”
+in 2011 and I immediately responded to some student feedback – my
+feedback, having taken this course many years previously. I remembered
+that analysing the stability of numerical methods had been difficult
+because I had forgotten the details of Fourier analysis. I also discussed
+the module with a colleague who said that many students could not
+manipulate complex numbers and stability analysis uses complex numbers. I
+therefore created a complex numbers revision worksheet for students to
+complete in their own time during the first week of term, thus providing
+scaffolding for the more challenging stability analysis later in the
+term. Based on student feedback over the years about gaps in prior
+knowledge, I have added topics to this worksheet and it now appears on
+the department web page for prospective students to study before they
+arrive. This has facilitated students' learning because they no longer
+get lost so easily when new mathematical methods are introduced which
+build upon material in the worksheet. (Demonstrating core knowledge K3.)
+I added material on Fourier analysis to the Numerical Methods module for
+three reasons:
+* Fourier analysis one of the tools needed for stability analysis
+* Fourier analysis is often not understood in sufficient depth by
+research students
+* Fourier analysis is very widely used in scientific research.
+The learning objectives for Fourier analysis are to:
+* Interpret Fourier Power spectra and relate the features of the power
+spectra to features of meteorological data such as the annual cycle
+* Use a Fourier decomposition as part of the stability analysis of a
+numerical method.
+The assessments are aligned with these objectives and during classes the
+students work on similar exercises. I received a thank you email from a
+student in 2012 saying that she had been asked about Fourier analysis in
+her interview to do a PhD and could answer because of my module. I have
+also had discussions with former MSc students while they were using
+Fourier analysis for their PhD research. (Demonstrating core knowledge
+K1.)
+In 2012, I decided to change the programming language that I used for
+teaching to Python. The Numerical Methods module had previously used
+Fortran and Python and the summer school had previously used IDL.
+Teaching using two languages puts an unnecessary burden on the students
+and all of these languages have commercial compilers or interpreters and
+so are expensive to use after leaving university, particularly for
+students returning to less wealthy countries after their studies. I chose
+to use Python for the following reasons:
+* Python is being used by the Met Office, one of the biggest employers of
+our graduates (V4)
+* Python interpreters are widely available, free and available on many
+platforms.
+* Studies of how students learn programming have shown that Python is an
+easy language to learn (ref) (V3)
+
+When I first started teaching (in 2005), I wrote notes on the white board
+for the students to copy. Students gave feedback that they couldn't copy
+the material quickly or accurately enough and they would like hand-outs.
+Responding (K6), I created notes to be handed out and projected overhead
+during classes. These notes were concise in order to avoid cognitive
+overload during class. The notes also had gaps for students to fill in so
+that the students had to remain engaged. I have received numerous
+positive comments about the notes with gaps over the years but critical
+feedback saying that the notes do not have enough information. I have
+therefore added considerably more information and references but my notes
+are no longer concise enough to be projected. I overcome this problem in
+two ways. Firstly, I often do not display the notes but instead describe
+the concepts and give the students time to read the notes after. This has
+received a mixed reception. Secondly, I have created a much more concise,
+over-head version of the notes. I am using this concise version to make
+teaching videos (see A2).
+During lectures I plan to talk for no more than 10 or 15 minutes at a
+time before I give the students the opportunity to practice what they are
+learning. There is conflicting evidence about attention span during
+lectures (eg Johnstone and Percival, 1976, Matheson, 2008 and Wilsona and
+Korna, 2009) but I find that the students do not all follow my
+complicated lecture material for more than 10 to 15 minutes. A 10 to 15
+minute lecture piece may involve an introduction to a new subject with
+motivation and visuals. I have been using data visualisation and
+animations to show the solutions of equations and how these relate the
+the weather. I am also planning to insert images as metaphor to
+complement the verbal stream (eg
+https://teatropolitan.files.wordpress.com/2009/07/takasugian02.jpg?w=510
+to represent an unstable numerical method, before describing stability
+analysis). I also use lecture pieces to explain a new technique or to
+show a worked example. (This uses my knowledge of the subject material,
+K1 and demonstrates appropriate methods of teaching (K2) based on
+evidence (V3).)
+Say something about supervising research students?
+References
+* Coffey, H., cited 2015, “Scaffolding” http://www.learnnc.org/lp/pages/5074
+* Wiggins, G. and McTighe, J., 1988, "Understanding by Design", ASCD
+
+
