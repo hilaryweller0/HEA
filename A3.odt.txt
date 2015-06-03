@@ -21,62 +21,93 @@ their understanding of the subject or their performance and development
 as learners
 6. Which elements of Core Knowledge you utilised, how and why
 7. Which Professional Values you applied, how and why
-Type your evidence in the following text box: (567 words)
-The summative assessment methods that I use are coursework consisting of
-written reports and computer code and an exam. The formative assessment
-methods are multiple choice questions, short pieces of un-assessed
-homework and individual discussions with each student during computer lab
-classes.
-Since taking over the course, I have made the coursework more open-ended,
-inviting students to explore and investigate and to write a stand-alone
-report. This is at a more appropriate, higher Blooms level, for the postgraduate students who I teach. Could you also refer to level 4 (Msc)
-criteria from Reading thereby indicating awareness of benchmarking across
-courses etc etc? The open-ended, problem-based coursework is aimed at
-encouraging curiosity and deep learning (core knowledge K3).
-My course has two pieces of coursework. The first is worth much less than
-the second and so it acts, to an extent, like formative assessment and
-students can use the feedback to improve their work for the second piece
-of coursework. I also give feedback to the whole class after the first
-piece of assessed coursework as many of them require the same feedback.
-This whole class feedback occurs both during class time and on the course
-website. I have recently started to use online and electronic tools for
-marking, commenting on work and providing feedback so the students
-receive the feedback and marked work electronically. This eliminates
-problems reading my handwriting. What about oral feedback electronically?
-Too time consuming?
-When I took over the course, I encouraged the students to hand in unassessed homework so that I could give feedback and receive feedback on
-my teaching (K5). I have moved away from this approach towards multiple
-choice questions and providing model answers as they are a more efficient
+Type your evidence in the following text box: (924 words)
+The summative assessment methods that I use are coursework (with written
+reports and computer code) and exams. Some of the written reports are
+about group work. The formative assessment methods are multiple choice
+questions, short pieces of un-assessed homework and individual
+discussions with each student during computer lab classes.
+Since taking over the Numerical Methods MSc module, I have made the
+coursework more open-ended, inviting students to explore and investigate
+and to write a stand-alone report and I have introduced group work. The
+open-ended, problem-based coursework is aimed at encouraging curiosity
+and deep learning (core knowledge K3). This is in line with the QAA
+publication on “Master's degree characteristics” which says that Msc
+students should “use initiative and take responsibility”, “solve problems
+in creative and innovative ways” and “communicate effectively” (V4). The
+group work is aimed at encouraging collaboration and communication
+between students.
+My Numerical Methods module has two pieces of coursework. The first is
+worth much less than the second and so it acts, to an extent, like
+formative assessment and students use the feedback to improve their work
+for the second piece of coursework. I also give feedback to the whole
+class after the first piece of assessed coursework as many of them
+require the same feedback. This whole class feedback occurs both during
+class time and on the course website. I have recently started to use
+online and electronic tools for marking, commenting on work and providing
+written feedback so the students receive the feedback and marked work
+electronically. This eliminates problems reading my handwriting. I also
+offer oral feedback on assessments during office hours and during
+computing labs.
 
-use of my time. However I aim to provide more feedback to students in the
-future using two additional techniques. Firstly I will use minute papers
-with both peer and lecturer feedback. Secondly I will ask the students to
-provide each other with peer feedback before handing in a second version
-of their coursework (so I will mark the versions before and after peer
-feedback). You need to say why you have chosen these compared to other
-possibilities
+When I took over Numerical Methods, I encouraged the students to hand in
+three pieces of unassessed homework in advance of the assessed homework
+so that I could give feedback and receive feedback on my teaching (K5).
+Having taught the course for a few years, I no longer need this much
+feedback for my teaching. Instead, I am using multiple choice questions
+and I am providing model answers for unassessed homework so that the
+students still receive enough feedback.
+Perhaps omit the following paragraph to save space
+Some of the students I teach need more feedback than I have so far given in order to
+master the important skill of writing reports. To address this, I will ask the
+students to provide each other with peer feedback (Liu and Carless, 2006)
+(V3) on the introduction of their first report and assess each other
+using the marking scheme supplied. I hope that this will encourage the
+students to write clear introductions. They will then gain experience by
+reading three of their colleague's introductions and they will gain
+experience of giving and receiving feedback. They will then have an
+opportunity to make corrections to their introduction based on the
+feedback, thus closing the feedback loop. They will hand in the first
+draft of their introduction, the final version of their report and the
+feedback that they gave to three of their peers. I will mark the final
+report and, as this is a trial, I will give contribution points for
+providing feedback. Using this approach, I am concerned about the risks
+of plagiarism, which is why I am only asking the students to read each
+other's introductions, not whole reports.
 During the computer labs I ensure that I talk to every student
-individually even if they are not asking for help. In order to provide
-informal assessment, I ask them questions about what they are doing. I'm
-not entirely sure why you want to provide informal assesment...
-presumably it's informal feedback?
-I ensure that my assessments are valid indicators of what I want the
-students to learn by writing the assessments to be closely aligned with
-the learning objectives. Are you allowed to attach specific examples to
-prove this? Ditto for model answers I ensure that marking is reliable by
-creating model answers and marking schemes before subjecting the students
-to the assessments and by asking another member of staff (the module
-supporter) to check the model answer and marking scheme before the
-assessment is finalised. When I am marking work I try to get an over-all
-impression of the mark as well as giving individual marks based on the
-marking scheme and I question both the marking scheme and my over-all
-impression if the two do not agree. Having marked all of the work, I then
-order it and re-read to check that I have the correct order for the
-class. Finally, the marking is checked by the module supporter. The check
-between my over-all impression and the mark helps to ensure that the
-standard is appropriate. My department compares marks between different
-courses and an external examiner examines coursework and exams which also
-helps to ensure that standards are appropriate. These moderation
-processes demonstrate core knowledge K5 and K6.
+individually even if they are not asking for help. I ask them questions
+about what they are doing as formative assessment and I provide informal
+feedback.
+The quality assurance processes in place at the University of Reading are
+helpful in ensuring that assessments are valid indicators of what I want
+students to learn and in ensuring that marking is reliable and standards
+are appropriate (K6). Every module has a module supporter to check the
+marking and to check examinations. In writing assessments, I carefully
+compare questions with learning objectives. I usually ask the module
+supporter to do more than is required by the University. I ask them to
+check coursework assignments, marking schemes and model answers before
+assignments are given to students as well as checking the marking. In
+addition, I have also asked the lecturer who was previously delivering my
+module to check a change that I made to an assignment. The writing of
+model answers and marking schemes also helps to ensure that the marking
+is reliable. I have been the module supporter for the more advanced
+Numerical Methods module which allows me to ensure that there is a
+gradual progression in standard between the two modules.
+When I am marking work I try to get an over-all impression of the mark as
+well as giving individual marks based on the marking scheme and I
+question both the marking scheme and my over-all impression if the two do
+not agree. Having marked all of the work, I then order it and re-read to
+check that I have the correct order for the class. Finally, the marking
+is checked by the module supporter. The check between my over-all
+impression and the mark helps to ensure that the standard is appropriate.
+My department compares marks between different courses and an external
+examiner examines coursework and exams which also helps to ensure that
+standards are appropriate. (Adherence to these moderation processes
+demonstrate core knowledge K5 and K6.)
+
+QAA publication on “Master's degree characteristics”, The Quality
+Assurance Agency for Higher Education 2010, www.qaa.ac.uk.
+Liu, N-F and Carless, D. “Peer feedback: the learning element of peer
+assessment ”, 2006, Teaching in Higher Education , 11(3)
 
 

@@ -41,45 +41,14 @@ methods
 student learning experience and your own working practice
 3. Which elements of Core Knowledge you utilised, how and why
 4. Which Professional Values you applied, how and why
-Type your evidence in the following text box: (486 words)
-I attended a session organised by Lorena Barba at a recent SIAM
-conference on "Teaching Computational Thinking"
-(http://www.siam.org/meetings/cse15/). There were discussions on teaching
-version control and automatic grading of assignments for large classes. I
-am planning to teach version control using git next year in one of my
+Type your evidence in the following text box: (724 words)
+I am currently funded on a research grant and I work in a research
+intensive department. I am heavily involved in research through attending
+conferences, publishing papers with colleagues and with students and
+joint projects with and without external partners. I also attend training
+courses on teaching run at the university of Reading and sessions on
 
-courses. Lorena Barba presented evidence that teaching programming using
-python helped students to learn programming more quickly as they do not
-have to spend a lot of time learning the syntax. She also described how
-she asks students to code up an unstable numerical method before they
-have done the stability analysis shown that it is unstable. This gives
-them the motivation for understanding the stability analysis. I am
-planning to re-sequence activities next year to accommodate this advice.
-She advised that students should not be given electronic versions of code
-to modify - they should be given printed code and asked to retype it, to
-ensure that they read the code carefully before making the required
-modifications. I will also incorporate this technique. From this
-conference session I learned about some appropriate teaching methods (K2)
-and about some evidence-informed approaches (V3). Swap this with the next
-paragraph so that you do general then specific
-During October and November 2014 I undertook a 60 hour MOOC on STEM
-teaching (http://www.siam.org/meetings/cse15/) in which I achieved a
-"Statement of Acomplishment with Distinction" and 92% overall in
-multiple-choice questions and peer-assessed assignments. During this
-course I learned about the principles of learning, learning objectives,
-assessments, numerous forms of learning activities including peer
-instruction, learning environments, student motivation and lesson
-planning. As a result of this course I implemented peer instruction into
-my classes and I have been making teaching videos. (swap with previous
-paragraph)
-I have learned from peer observations of my lectures - in particular that
-I need to spend more time going through exercises after the students have
-attempted the exercises. I have also learned from observing other
-people's lectures and I have been asked to observe lectures in addition
-to my department quota. For example, I have learned to ask for very short
-feedback, on post-it notes, at the end of every class. This has enhanced
-my knowledge of methods for evaluating the effectiveness of teaching
-(K5).
+teaching at conferences. I will describe some of these below.
 I am involved in a research project to design a new weather and climate
 forecasting model with the UK Met Office. This project is closely aligned
 with the subjects I am teaching. As a result of the Met Office project, I
@@ -89,10 +58,60 @@ inclusion of this new topic demonstrates my knowledge of the subject
 material (K1) and an acknowledgement of the wider context in which higher
 education operates (V4), creating taught material that is relevant to
 prospective employers.
-I will continue to attend university workshops on teaching and sessions
-on teaching at conferences. I think you need to demonstrate sustained
-committment to development a little better. You could mention attending
-dept weekly staff meetings that have teaching focus and external examiner
-feedback meetings?
+During October and November 2014 I undertook a 60 hour MOOC on STEM
+teaching (http://www.siam.org/meetings/cse15/) in which I achieved a
+"Statement of Acomplishment with Distinction" and 92% overall in
+multiple-choice questions and peer-assessed assignments. During this
+course I learned about the principles of learning, learning objectives,
+assessments, numerous forms of learning activities including peer
+instruction, learning environments, student motivation and lesson
+planning. As a result of this course I implemented peer instruction into
+my classes and I have been making teaching videos.
+In 2012, I decided to change the programming language that I used for
+teaching to Python. The module that I took over had previously used
+Fortran and matlab. Teaching using two languages puts an unnecessary
+burden on the students and all of these languages have commercial
+compilers or interpreters and so are expensive to use after leaving
+university, particularly for students returning to less wealthy countries
+after their studies. I chose to use Python for the following reasons:
+* Python is being used by the Met Office, one of the biggest employers of
+our graduates (V4)
+* Python interpreters are widely available, free and available on many
+platforms.
+* Studies of how students learn programming have shown that Python is an
+easy language to learn (ref) (V3). I will expand on this point below.
+I attended a session organised by Lorena Barba at a recent SIAM
+conference on "Teaching Computational Thinking"
+(http://www.siam.org/meetings/cse15/). There were discussions on teaching
+version control and automatic grading of assignments for large classes. I
+am planning to teach version control using git next year in one of my
+courses. Lorena Barba presented evidence that teaching programming using
+python helped students to learn programming more quickly as they do not
+have to spend a lot of time learning the syntax. She also described how
+she asks students to code up an unstable numerical method before they
+have done the stability analysis shown that it is unstable. This gives
+them the motivation for understanding the stability analysis. I am
+planning to re-sequence activities next year to accommodate this advice.
+She advised that students should not be given electronic versions of code
+to modify - they should be given printed code and asked to retype it, to
+ensure that they read the code carefully before making the required
+modifications. I will also incorporate this technique. (K2,V3)
+I have learned from peer observations of my lectures - in particular that
+I need to spend more time going through exercises after the students have
+attempted the exercises. I have also learned from observing other
+people's lectures and I have been asked to observe lectures in addition
+to my department quota. For example, I have learned to ask for very short
+
+feedback, on post-it notes, at the end of every class. This has enhanced
+my knowledge of methods for evaluating the effectiveness of teaching
+(K5).
+I will continue to attend university workshops on teaching, such as
+“Enhancing Teaching, Engaging Learners: Personalising Teaching to Deepen
+Learning” which I attended in October 2014 and I will continue to attend
+sessions on teaching at conferences. I attend and contribute to staff
+meetings in which teaching is discussed and I attend meetings with the
+external examiner of our MSc module. I am also enrolled in a pilot study
+“Transforming Teaching Through Peer Observation” run by Dr Gillian Rose
+at the University of Reading.
 
 

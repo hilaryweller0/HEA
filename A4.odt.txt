@@ -5,7 +5,7 @@ formal and informal learning environment to facilitate learning, and how
 you seek to meet the needs of your learners for educational support and
 guidance. It includes how you:
 Utilise and manage the full range of physical or virtual learning
-environments so that they are appropriate to your learnersâ€™ needs
+environments so that they are appropriate to your learners' needs
 Work with learners and service providers to ensure that your learners can
 access and use a broad range of learning opportunities. Learner support
 might include such activities as personal and academic tutoring, one-toone advice, counselling, developing practice to meet the learning
@@ -23,44 +23,60 @@ effective for learners
 4. Why you chose those particular strategies and how well they worked
 5. Which elements of Core Knowledge you used, how and why
 6. Which Professional Values you applied, how and why
-Type your evidence in the following text box: (362 words)
-The physical environments in which I work are classrooms and PC labs. I
-also use virtual environments - the courses I teach have discussion
-forums on which I answer questions about the coursework very promptly.
-What does very promptly mean? Pros and cons of this approach could be
-elaborated on. I also offer one to one or group support during office
-hours.
+Type your evidence in the following text box: (633 words)
+The physical environments in which I work are classrooms and PC labs and
+my office for meetings with research students. I also use virtual
+environments – I have introduced discussion forums for the courses that I
+teach which I will discuss below. I also offer one to one or group
+support during office hours.
 I have contributed to making the learning environment more effective by
-encouraging students to ask questions on the discussion forum rather than
-emailing me. These questions can be asked anonymously, thus respecting
-individual learners (V1). The students benefit because they can learn
-from the questions of other students. This is an appropriate use of a
+encouraging students to ask questions on the course discussion forum
+rather than emailing me. This encourages students to read previous posts
+before they post. These questions can be asked anonymously, thus
+respecting individual learners (V1). The students benefit because they
+can learn from the questions of other students. I benefit because I only
+have to answer each question once. This is an appropriate use of a
 learning technology (K4) and it is also a method of evaluating the
 effectiveness of my teaching (K5). I am also applying professional values
 V1 and V2; by making all of these questions and answers visible to all
 students, all can benefit from them, not just the self confident students
-who are prepared to ask questions. Demonstrate that it is used?
+who are prepared to ask questions. Last year, for my Numerical Methods
+module, there were 132 posts in total from 17 participants. I estimate
+that about half the posts were from me. I aimed to answer all questions
+on the forum within 12 hours but it was often much faster.
 I support learners who are not fluent in English (V1 and V2) by ensuring
 that all important communications are written down so that they do not
 have to rely on understanding me talking. This also recognises the wider
-context in which higher education operates (V4). We are trying to attract
-more students from overseas and so we must provide them with teaching
-material that is comprehensible. Is that the only thing we need to do? Is
-it worth elaborating here at all?
+context in which higher education operates (V4); We are trying to attract
 
-I am interested in the idea of stereotype inoculation (eg Jaschick 2011).
+more students from overseas and so we must provide them with teaching
+material that is comprehensible.
+I am interested in the idea of stereotype inoculation (eg Jaschick 2011).
 I am a white woman so I hope to inoculate the class against the idea that
 women cannot do mathematics and computing. Many of my students are Asian
 and I have provided them with a role model by conducting a skype
 interview during a lecture with an Asian member of staff at the Met
 Office about career prospects in atmospheric science.
-I have not always been able to learn the names of all my students.
-However I understand that this is important for providing an inclusive
-environment. I plan to do this better in future years by interviewing all
-students about their background and how to pronounce their name during
-the first practical computing session of the term. Can you identify a way
-to make you more likely to remember these - with evidence (and if you
-find one that's good can you share it with me please!)
+I use memory techniques to remember the names of the students who I teach
+(eg http://www.buildyourmemory.com/faces.php). This has not always been 100%
+successful. However I understand that this is important for providing an
+inclusive environment. I plan to do this better in future years by
+interviewing all students about their background and how to pronounce
+their name during the first practical computing session of the term. I
+will then also apply the memory techniques during these interviews.
+I supervise student research projects at undergraduate, Masters and PhD level. Some
+of these are jointly supervised with staff from the UK Met Office. This is particularly
+useful, demonstrating the value of the research to the student and meeting the needs
+of the Met Office. It is common to give students a large amount of literature to read at
+the start of their project. This is not how I was supervised as a student and I have had
+negative feedback from other people's research students about this technique. I
+always start student projects with an active piece of research such as coding or
+running a model. They then read the literature gradually in order to understand what
+they are doing and where they are going. This helps students to be invested in the
+projects. When meeting with research students, I very much like not answering their
+questions but instead pointing them towards finding the answer themselves. This
+gives students to confidence to undertake a research project rather than falling back
+on their supervisor who appears to know everything.
 References
 Jaschick, S. 2011, "Inoculation Against Stereotype", Inside Higher Ed
 
